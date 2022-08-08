@@ -1,2 +1,2 @@
 # desafio-type-script
-projeto em TypeScript com uma abordagem totalmente prática
+Projeto em TypeScript com uma abordagem totalmente prática do bootcamp santander fullstack developer
